@@ -1,0 +1,23 @@
+[
+  {
+    "keywords": ["öffnungszeiten", "wann geöffnet", "wie lange offen", "wann habt ihr auf", "zeiten"],
+    "response": "Unsere Öffnungszeiten sind Montag bis Freitag von 9:00 bis 17:00 Uhr."
+  },
+  {
+    "keywords": ["ansprechpartner", "kontaktperson", "wer zuständig", "mit wem sprechen", "ansprech"],
+    "response": "Ihr Ansprechpartner ist Frau Schneider – erreichbar unter schneider@gfn.de."
+  },
+  {
+    "keywords": ["anmeldung", "wie anmelden", "registrieren", "wie melde ich mich an", "einschreiben"],
+    "response": "Zur Anmeldung besuchen Sie bitte unsere Website unter www.gfn.de/anmeldung."
+  },
+  {
+    "keywords": ["hilfe", "problem", "support", "unterstützung", "technische hilfe", "fehler"],
+    "response": "Bei technischen Problemen hilft Ihnen unser Support unter support@gfn.de gerne weiter."
+  },
+  {
+    "keywords": ["standort", "ort", "adresse", "wo ist gfn", "wo ist die gfn", "wo finde ich euch", "wo befindet sich die gfn", "wo liegt die gfn", "standort der gfn", "gfn standort"],
+    "response": "Der Standort der GFN GmbH in Stuttgart befindet sich in der Kronenstraße 22, 70173 Stuttgart."
+  }
+]
+
